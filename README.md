@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AhmadCM01/AhmadCM01/blob/"C:\Users\USER\Downloads\Telegram Desktop\photo_2026-02-04_10-29-48.jpg"?raw=true" width="100%" alt="Ahmad's Banner" />
+  <img src="https://github.com/AhmadCM01/AhmadCM01/blob/main/photo_2026-02-04_10-29-48.jpg?raw=true" width="100%" alt="Ahmad's Banner" />
 </p>
 
 <table border="0">
@@ -16,28 +16,21 @@
         <img src="https://img.shields.io/badge/Focus-AI%20Engineering-blue?style=for-the-badge&logo=openai" />
         <img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Systems-green?style=for-the-badge" />
       </p>
-      <p>I specialize in architecting <b>AI-driven solutions</b>, with a deep interest in how machines process human language. My work bridges the gap between complex backend logic and intuitive user experiences.</p>
+      <p>I specialize in architecting <b>AI-driven solutions</b>, focusing on <b>GenAI</b>, <b>LangGraph</b>, and <b>LLM Engineering</b>. I bridge the gap between complex backend logic and intuitive <b>UI/UX</b>.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🧬 About My Craft
-- 🧠 **AI Specialization:** Advanced Machine Learning & Natural Language Processing (NLP).
-- 🏗️ **AI Agents:** Architecting stateful, multi-actor applications using **LangGraph** and RAG patterns.
-- 🎨 **Creative Engineering:** Merging robust Web Development with clean UI/UX principles.
-
----
-
-### 📊 Engineering Stats & GitStats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AhmadCM01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmad's Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadCM01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+### 📊 GitHub Analytics & GitStats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadCM01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmad's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadCM01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadCM01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadCM01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -54,7 +47,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -64,6 +56,12 @@
 ---
 
 ### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-umar-yeruwa)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AhmadCM01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://flowcv.com/resume/dvh43sarl48a)
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmad-umar-yeruwa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/AhmadCM01"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://flowcv.com/resume/dvh43sarl48a"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmadCM01&color=blueviolet" alt="Profile Views" />
+</p>
