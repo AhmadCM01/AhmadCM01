@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AhmadCM01/AhmadCM01/main/photo_2026-02-04_10-24-11.jpg" width="200" style="border-radius: 50%; border: 4px solid #412991;" />
-</p>
-
 <h1 align="center">🤖 Ahmad | AI Engineer</h1>
 
 <p align="center">
@@ -10,7 +6,8 @@
 </p>
 
 <p align="center">
-  I specialize in architecting <b>AI-driven solutions</b>, focusing on <b>GenAI</b>, <b>LangGraph</b>, and <b>LLM Engineering</b>. <br>I bridge the gap between complex backend logic and intuitive <b>UI/UX</b>.
+  I specialize in architecting <b>AI-driven solutions</b>, focusing on <b>GenAI</b>, <b>LangGraph</b>, and <b>LLM Engineering</b>. <br>
+  I bridge the gap between complex backend logic and intuitive <b>UI/UX</b>.
 </p>
 
 ---
@@ -30,20 +27,26 @@
 ### 🛠️ Technical Arsenal
 
 #### **Artificial Intelligence & Agents**
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=google-gemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLM_Engineering-FFD21E?style=for-the-badge&logo=probot&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Engineering-FFD21E?style=for-the-badge&logo=probot&logoColor=black" />
+</p>
 
 #### **Web & Design**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
 ### 📈 Contribution Activity
-![Ahmad's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmadCM01&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadCM01&theme=tokyonight&hide_border=true" width="100%" />
+</p>
 
 ---
 
