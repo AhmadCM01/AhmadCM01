@@ -1,36 +1,28 @@
 <p align="center">
-  <img src="https://github.com/AhmadCM01/AhmadCM01/blob/main/photo_2026-02-04_10-29-48.jpg?raw=true" width="100%" alt="Ahmad's Banner" />
+  <img src="https://raw.githubusercontent.com/AhmadCM01/AhmadCM01/main/photo_2026-02-04_10-24-11.jpg" width="200" style="border-radius: 50%; border: 4px solid #412991;" />
 </p>
 
-<table border="0">
-  <tr>
-    <td width="25%" align="center">
-      <img src="https://github.com/AhmadCM01/AhmadCM01/blob/main/photo_2026-02-04_10-24-11.jpg?raw=true" width="180" style="border-radius: 50%; border: 3px solid #412991;" />
-      <br>
-      <b>Ahmad</b><br>
-      <sub>AI Engineer</sub>
-    </td>
-    <td width="75%">
-      <h1>🤖 Ahmad | AI Engineer</h1>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Focus-AI%20Engineering-blue?style=for-the-badge&logo=openai" />
-        <img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Systems-green?style=for-the-badge" />
-      </p>
-      <p>I specialize in architecting <b>AI-driven solutions</b>, focusing on <b>GenAI</b>, <b>LangGraph</b>, and <b>LLM Engineering</b>. I bridge the gap between complex backend logic and intuitive <b>UI/UX</b>.</p>
-    </td>
-  </tr>
-</table>
+<h1 align="center">🤖 Ahmad | AI Engineer</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-blue?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Systems-green?style=for-the-badge" />
+</p>
+
+<p align="center">
+  I specialize in architecting <b>AI-driven solutions</b>, focusing on <b>GenAI</b>, <b>LangGraph</b>, and <b>LLM Engineering</b>. <br>I bridge the gap between complex backend logic and intuitive <b>UI/UX</b>.
+</p>
 
 ---
 
-### 📊 GitHub Analytics & GitStats
+### 📊 Professional Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadCM01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmad's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadCM01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmadCM01&theme=tokyonight" height="190" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadCM01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmadCM01&theme=tokyonight" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmadCM01&theme=tokyonight" height="170" />
 </p>
 
 ---
@@ -56,7 +48,7 @@
 ---
 
 ### 🔗 Let's Connect
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/ahmad-umar-yeruwa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/AhmadCM01"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://flowcv.com/resume/dvh43sarl48a"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
