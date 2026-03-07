@@ -1,14 +1,22 @@
-<h1 align="center">🤖 Ahmad | AI Engineer</h1>
+<h1 align="center">🤖 Ahmad | Software Developer & AI Engineer</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20Engineering-blue?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Systems-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Frontend_Development_&_AI-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Status-Building_Intelligent_Interfaces-green?style=for-the-badge" />
 </p>
 
 <p align="center">
-  I specialize in architecting <b>AI-driven solutions</b>, focusing on <b>GenAI</b>, <b>LangGraph</b>, and <b>LLM Engineering</b>. <br>
-  I bridge the gap between complex backend logic and intuitive <b>UI/UX</b>.
+  <b>Software Developer</b> with a strong eye for <b>UI/UX</b> and a background in <b>Web3 Community Growth</b>. <br> 
+  I specialize in creating intuitive frontends and am currently expanding my proficiency in <b>AI engineering</b>.
 </p>
+
+---
+
+### 📖 The Insight
+I bring over **four years of experience** in the Web3 ecosystem, moving from community strategy into technical roles. My focus is on:
+* **Frontend & UI/UX:** Leveraging a natural intuition for design to build responsive, user-centric interfaces.
+* **AI & Automation:** **Expanding my proficiency** in GenAI, LangGraph, and LLM orchestration to build smarter workflows.
+* **Web3 Expertise:** Deep experience in community growth and project scaling within the blockchain industry.
 
 ---
 
@@ -26,19 +34,25 @@
 
 ### 🛠️ Technical Arsenal
 
-#### **Artificial Intelligence & Agents**
+#### **Frontend & Design (Core Strength)**
 <p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Engineering-FFD21E?style=for-the-badge&logo=probot&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-#### **Web & Design**
+#### **AI Engineering & Automation**
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+#### **Strategy**
+<p align="center">
+  <img src="https://img.shields.io/badge/Web3_Growth-0052FF?style=for-the-badge&logo=ethereum&logoColor=white" />
 </p>
 
 ---
