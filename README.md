@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Ahmad | Software Developer & AI Engineer</h1>
+<h1 align="center">🤖 Ahmad | Software & AI Engineer</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Frontend_Development_&_AI-blue?style=for-the-badge&logo=react" />
@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <b>Software Developer</b> with a strong eye for <b>UI/UX</b> and a background in <b>Web3 Community Growth</b>. <br> 
-  I specialize in creating intuitive frontends and am currently expanding my proficiency in <b>AI engineering</b>.
+  <b>Software Engineer</b> with a strong eye for <b>UI/UX</b> and a background in <b>Web3 Community Growth</b>. <br> 
+  I specialize in creating intuitive systems and am currently expanding my proficiency in <b>AI engineering</b>.
 </p>
 
 ---
