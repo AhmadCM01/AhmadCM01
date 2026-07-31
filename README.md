@@ -1,22 +1,23 @@
 <h1 align="center">🤖 Ahmad | Software & AI Engineer</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend_Development_&_AI-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Focus-Frontend_Architecture_&_AI-blue?style=for-the-badge&logo=nextdotjs" />
   <img src="https://img.shields.io/badge/Status-Building_Intelligent_Interfaces-green?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <b>Software Engineer</b> with a strong eye for <b>UI/UX</b> and a background in <b>Web3 Community Growth</b>. <br> 
-  I specialize in creating intuitive systems and am currently expanding my proficiency in <b>AI engineering</b>.
+  <b>Software Developer</b> and <b>AI Engineer</b> building high performance, type safe web applications and intelligent user interfaces.<br> 
+  I specialize in modern frontend architecture and efficient system design, seamlessly integrating production grade AI models, LLM orchestration, and robust software systems to create engaging digital experiences.
 </p>
 
 ---
 
-### 📖 The Insight
-I bring over **four years of experience** in the Web3 ecosystem, moving from community strategy into technical roles. My focus is on:
-* **Frontend & UI/UX:** Leveraging a natural intuition for design to build responsive, user-centric interfaces.
-* **AI & Automation:** **Expanding my proficiency** in GenAI, LangGraph, and LLM orchestration to build smarter workflows.
-* **Web3 Expertise:** Deep experience in community growth and project scaling within the blockchain industry.
+### 📖 The Engineering Focus
+My work centers on building polished user experiences and bridging the gap between intuitive frontend design and complex data infrastructure.
+
+* **Frontend Architecture & UI/UX:** Building highly responsive, type safe client interfaces utilizing Next.js 14/15, TypeScript, Tailwind CSS, and Zustand for seamless state management.
+* **AI Integration & Software Systems:** Architecting end to end RAG pipelines (LangGraph, FastEmbed, pgvector) and real time synchronization engines (Yjs CRDTs, WebSockets) to power intelligent, data rich applications.
+* **Product & SDLC:** Managing the full software development lifecycle, from automated testing to CI/CD pipelines, while leveraging 4+ years of Web3 community growth experience to drive user centered product decisions.
 
 ---
 
@@ -34,25 +35,28 @@ I bring over **four years of experience** in the Web3 ecosystem, moving from com
 
 ### 🛠️ Technical Arsenal
 
-#### **Frontend & Design (Core Strength)**
+#### **Frontend Architecture (Core Strength)**
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
-#### **AI Engineering & Automation**
+#### **AI / ML & Orchestration**
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-#### **Strategy**
+#### **Backend & Distributed Systems**
 <p align="center">
-  <img src="https://img.shields.io/badge/Web3_Growth-0052FF?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
